@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf = "http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <rdf:Description
+        rdf:about="https://www.oreilly.com/library/view/clean-code-a/9780136083238/">
+        <dc:title>Clean Code</dc:title>
+        <dc:description>Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.</dc:description>
+        <dc:creator>Robert Cecil Martin</dc:creator>
+        <dc:date>2008</dc:date>x
+        <dc:language>English</dc:language>
+        <foaf:img>https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX258_BO1,204,203,200_.jpg</foaf:img>
+        <dc:link>https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882</dc:link>
+        <dc:publisher>Pearson</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">
+        <dc:title>The Pragmatic Programmer</dc:title>
+        <dc:description>The Pragmatic Programmer: From Journeyman to Master is a book about computer programming and software engineering, written by Andrew Hunt and David Thomas and published in October 1999. It is used as a textbook in related university courses.</dc:description>
+        <dc:creator>Andy Hunt and Dave Thomas</dc:creator>
+        <dc:date>1999</dc:date>
+        <dc:language>English</dc:language>
+        <foaf:img>https://images-na.ssl-images-amazon.com/images/I/41HXiIojloL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg</foaf:img>
+        <dc:link></dc:link>
+        <dc:publisher>Addison Wesley</dc:publisher>
+    </rdf:Description>
+
+
+    <rdf:Description
+        rdf:about="https://martinfowler.com/books/refactoring.html">
+        <dc:title>Refactoring</dc:title>
+        <dc:description>As the application of object technology--particularly the Java programming language--has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, non-optimal applications.</dc:description>
+        <dc:creator>Kent Beck and Martin Fowler</dc:creator>
+        <dc:date>1999</dc:date>
+        <dc:language>English</dc:language>
+        <foaf:img>https://images-na.ssl-images-amazon.com/images/I/51k+BvsOl2L._SX258_BO1,204,203,200_.jpg</foaf:img>
+        <dc:link>https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672</dc:link>
+        <dc:publisher>Addison Wesley</dc:publisher>
+    </rdf:Description>
+
+
+    <rdf:Description
+        rdf:about="https://www.oreilly.com/library/view/code-complete-2nd/0735619670/">
+        <dc:title>Code Complete</dc:title>
+        <dc:description>Code Complete is a software development book, written by Steve McConnell and published in 1993 by Microsoft Press, encouraging developers to continue past code-and-fix programming and the big design up front and waterfall models. It is also a compendium of software construction techniques, which include techniques from naming variables to deciding when to write a subroutine.</dc:description>
+        <dc:creator>Steve McConnell</dc:creator>
+        <dc:date>1993</dc:date>
+        <dc:language>English</dc:language>
+        <foaf:img>https://i.ibb.co/WzyCRJj/1-5.png</foaf:img>
+        <dc:link>https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670</dc:link>
+        <dc:publisher>Microsoft Press</dc:publisher>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://www.oreilly.com/library/view/design-patterns-elements/0201633612/">
+        <dc:title>Design Patterns</dc:title>
+        <dc:description>Design Patterns: Elements of Reusable Object-Oriented Software (1994) is a software engineering book describing software design patterns. The book was written by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, with a foreword by Grady Booch. The book is divided into two parts, with the first two chapters exploring the capabilities and pitfalls of object-oriented programming, and the remaining chapters describing 23 classic software design patterns. The book includes examples in C++ and Smalltalk.</dc:description>
+        <dc:creator>Erich Gamma, John Vlissides, Richard Helm, and Ralph Johnson</dc:creator>
+        <dc:date>1994</dc:date>
+        <dc:language>English</dc:language>
+        <foaf:img>https://i.ibb.co/pbvQXvG/1-6.png</foaf:img>
+        <dc:link>https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612</dc:link>
+        <dc:publisher>Addison Wesley</dc:publisher>
+    </rdf:Description>
+
+</rdf:RDF>
